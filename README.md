@@ -31,7 +31,12 @@ Here are some ideas to get you started:
     <br>
     <p align="center"> 
     <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="center">
-    <br><br>:pizza: Take a look at my stats :grin:<br><br>
+    <br><br>:pizza:Take a look at my stats :grin:<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=theRay1s&&show_icons=true&&theme=tokyonight" />
   </samp>
 </p>
+
+### My GitHub Top Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theRay1&hide=css,html)
+### My GitHub stats
+
