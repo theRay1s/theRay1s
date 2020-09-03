@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 </p>
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theRay1&hide=css,html)
-### My GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theRay1s&hide=css,html)
+
 
