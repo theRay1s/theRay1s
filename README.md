@@ -54,9 +54,9 @@
 - 🌱 Check Out My Builds ON: **[AndroidFileHost](https://www.androidfilehost.com/?w=files&flid=316429)**
 
 
-- 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)** or 💌Mail me [rehandagur@outlook.com]
+- 📫 How to reach me: **You can find me also on 💌[![Mail]()](rehandagur@outlook.com)
 
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theRay1s)
-[![Telegram(https://img.shields.io/badge/Rehan%20Singh-Telegram-blue)](https://t.me/theRay1)]
+[![Telegram](https://img.shields.io/badge/Rehan%20Singh-Telegram-blue)](https://t.me/theRay1)]
