@@ -27,23 +27,21 @@
 # Skills #
 
 - Back-End -
-![Python](https://img.shields.io/badge/Python%2070%25-blue.svg)
+![Python]
 
 - Front-End -
 ![HTML](https://img.shields.io/badge/HTML%2085%25-red.svg)
 ![CSS](https://img.shields.io/badge/CSS%2085%25-purple.svg)
-![JavaScript](https://img.shields.io/badge/Javascript%2070.5%25-orange.svg)
+![JavaScript]
 
 - Frameworks -
-![Bootstrap](https://img.shields.io/badge/Bootstrap%2085%25-purple.svg)
-
+![Bootstrap]
 - Tools -
-![Git](https://img.shields.io/badge/Git%2098%25-gray.svg)
-![Docker](https://img.shields.io/badge/Docker%2068%25-blue.svg)
-
+![Git]
+![Docker]
 - Operating system-
 ![Windows](https://img.shields.io/badge/WINDOWS%2090%25-blue.svg)
-![Linux](https://img.shields.io/badge/Linux%2090%25-gray.svg)
+![Linux]
 
 
 # Facts #
@@ -51,12 +49,12 @@
 - 🔭 I’m currently working on: 
 **As a Device Maintainor Of *crdroid* For My Device Moto-G Turbo[Merlin].**
 **-Take a look at my project in my repositories if you are interested more about it.**
-- 🌱 Check Out My Builds ON: **[AndroidFileHost](https://www.androidfilehost.com/?w=files&flid=316429)**
+- 🌱 Check Out My Builds ON: [![AFH](https://img.shields.io/badge/-AndroidFileHost-green)](https)://www.androidfilehost.com/?w=files&flid=316429)
 
 
-- 📫 How to reach me: **You can find me also on 💌[![Mail]()](rehandagur@outlook.com)
+- 📫 How to reach me: **You can find me also on 💌[![Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
 
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theRay1s)
-[![Telegram](https://img.shields.io/badge/Rehan%20Singh-Telegram-blue)](https://t.me/theRay1)]
+[![Telegram](https://img.shields.io/badge/Rehan%20Singh-Telegram-blue)](https://t.me/theRay1)
