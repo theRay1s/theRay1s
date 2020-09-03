@@ -24,7 +24,7 @@ Here are some ideas to get you started:
         <br>Currently  a for my device merlin.
  
  <p align="center">
-  Reach out to me - <a href="(https://t.me/theRay1)"><img src="https://img.shields.io/badge/Telegram-%40Charlie-blue" /></a>
+  Reach out to me - <a href="(https://t.me/theRay1)"><img " /></a>
   </p>
  
    <br>
