@@ -49,10 +49,10 @@
 - 🔭 I’m currently working on: 
 **As a Device Maintainor Of *crdroid* For My Device Moto-G Turbo[Merlin].**
 **-Take a look at my project in my repositories if you are interested more about it.**
-- 🌱 Check Out My Builds ON: [![AFH](https://img.shields.io/badge/-AndroidFileHost-green)](https)://www.androidfilehost.com/?w=files&flid=316429)
+- 🌱 Check Out My Builds ON: [![AFH](https://img.shields.io/badge/-AndroidFileHost-green)](https://www.androidfilehost.com/?w=files&flid=316429)
 
 
-- 📫 How to reach me: **You can find me also on 💌[![Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
+- 📫 How to reach me: **You can find me also on 💌 [![Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
 
 
 # Social Media #
