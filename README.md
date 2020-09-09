@@ -32,16 +32,6 @@
 - Front-End -
 ![HTML](https://img.shields.io/badge/HTML%2085%25-red.svg)
 ![CSS](https://img.shields.io/badge/CSS%2085%25-purple.svg)
-![JavaScript]
-
-- Frameworks -
-![Bootstrap]
-- Tools -
-![Git]
-![Docker]
-- Operating system-
-![Windows](https://img.shields.io/badge/WINDOWS%2090%25-blue.svg)
-![Linux]
 
 
 # Facts #
