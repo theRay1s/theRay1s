@@ -1,12 +1,9 @@
- <p align="center"> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><br>
-<h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1></p>
-
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300" align="center">
+<p align="center"> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><br>
+<h1 align="center"> Hi there 👋, im Rehan Singh<br/> </h1></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theRay1s" alt="theRay1s" /></a> </p>
 
 * Indian undergraduate student in Maths at Univ. Of Rajasthan 🎓.
-* **O-LEVEL** Course in Computer Software
 * open-source contributor and Noob Website developer.
-
 * My area of interestes are: Ethical Hacking, Website Designer,  Cloud Computing, Machine Learning, and operating systems.
 
 # Statistics #
@@ -22,12 +19,9 @@
 ---
 
 # Website #
-[![Entertainment Website](https://img.shields.io/badge/Ray%20Network-https%3A%2F%2Fraysnetwork.cf%2F-red)](https://raysnetwork.cf/)
+[![Entertainment Website](https://img.shields.io/badge/Ray%20Network-https%3A%2F%2Fraysnetwork.cf%2F-red)](https://raynetwork.cf/)
 
 # Skills #
-
-- Back-End -
-![Python]
 
 - Front-End -
 ![HTML](https://img.shields.io/badge/HTML%2085%25-red.svg)
@@ -37,7 +31,7 @@
 # Facts #
 
 - 🔭 I’m currently working on: 
-**As a Device Maintainor Of *crdroid , MalluOS* For My Device Moto-G Turbo[Merlin].**
+*As a Device Maintainor Of * , **SpiceOS** For My Device **Moto-G Turbo[Merlin].**
 **-Take a look at my project in my repositories if you are interested more about it.**
 - 🌱 **Check Out My Builds ON:** [![AFH](https://img.shields.io/badge/-AndroidFileHost-green)](https://www.androidfilehost.com/?w=files&flid=316429)
 
