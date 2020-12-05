@@ -31,8 +31,8 @@
 # Facts #
 
 - 🔭 I’m currently working on: 
-*As a Device Maintainor Of * , **SpiceOS** For My Device **Moto-G Turbo[Merlin].**
-**-Take a look at my project in my repositories if you are interested more about it.**
+As a Device Maintainor Of , **SpiceOS** For My Device **Moto-G Turbo[Merlin].**
+- Take a look at my project in my repositories if you are interested more about it.**
 - 🌱 **Check Out My Builds ON:** [![AFH](https://img.shields.io/badge/-AndroidFileHost-green)](https://www.androidfilehost.com/?w=files&flid=316429)
 
 
