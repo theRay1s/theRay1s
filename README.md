@@ -2,10 +2,6 @@
 <h1 align="center"> Hi there 👋, im Rehan Singh<br/> </h1></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theRay1s" alt="theRay1s" /></a> </p>
 
-* Indian undergraduate student in Maths at Univ. Of Rajasthan 🎓.
-* open-source contributor and Noob Website developer.
-* My area of interestes are: Ethical Hacking, Website Designer,  Cloud Computing, Machine Learning, and operating systems.
-
 # Statistics #
 
 ![Rehan Singh github stats](https://github-readme-stats.vercel.app/api?username=theRay1s&show_icons=true&theme=tokyonight)
