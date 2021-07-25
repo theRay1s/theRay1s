@@ -7,16 +7,10 @@
 
 ---
 
-# Website #
-[![Entertainment Website](https://img.shields.io/badge/Ray%20Network-https%3A%2F%2Fraysnetwork.cf%2F-red)](https://raynetwork.cf/)
-
 # Skills #
-
 - Front-End -
 ![HTML](https://img.shields.io/badge/HTML%2085%25-red.svg)
 ![CSS](https://img.shields.io/badge/CSS%2085%25-purple.svg)
-
-
 
 # Social Media #
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theRay1s)
