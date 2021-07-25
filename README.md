@@ -19,9 +19,9 @@
 
 
 # Social Media #
-
-<p align="center">
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theRay1s)
   [![💌Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
+
+<p align="center">
   <a href="https://t.me/charlie_117"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
