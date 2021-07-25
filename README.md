@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><br>
-<h1 align="center"> Hi there 👋, im Rehan Singh<br/> </h1></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Rehan%20Singh%20&fontAlignY=35&desc=||%20%2022%20|%20M%20|%20Student%20|%20India%20%20||&descAlign=50&descAlignY=60" alt= "Rehan Singh" width="1500" />
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theRay1s&theme=onedark&column=6" alt="theRay1s" /></a> </p>
 
 # Statistics #
@@ -21,5 +20,8 @@
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theRay1s)
-[![Telegram](https://img.shields.io/badge/Rehan%20Singh-Telegram-blue)](https://telegram.dog/theRay1)
-- 📫 **How to reach me:** 💌 [![Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
+[![💌Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
+
+<p align="center">
+  <a href="https://t.me/charlie_117"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
