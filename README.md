@@ -1,16 +1,10 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"><br>
 <h1 align="center"> Hi there 👋, im Rehan Singh<br/> </h1></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theRay1s" alt="theRay1s" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theRay1s&theme=onedark&column=4" alt="theRay1s" /></a> </p>
 
 # Statistics #
 
-![Rehan Singh github stats](https://github-readme-stats.vercel.app/api?username=theRay1s&show_icons=true&theme=tokyonight)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=theRay1s" alt="theRay1s" /> </p>
-<br>
-
-# Most Used Languages #
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=theRay1s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=theRay1s&include_all_commits=true&theme=onedark&count_private=true" alt="theRay1s"> &nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theRay1s&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="theRay1s" /></p>
 
 ---
 
