@@ -18,17 +18,8 @@
 ![CSS](https://img.shields.io/badge/CSS%2085%25-purple.svg)
 
 
-# Facts #
-
-- 🔭 I’m currently working on: 
-As a Device Maintainor Of , **SpiceOS** For My Device **Moto-G Turbo[Merlin].**
-- Take a look at my project in my repositories if you are interested more about it.**
-- 🌱 **Check Out My Builds ON:** [![AFH](https://img.shields.io/badge/-AndroidFileHost-green)](https://www.androidfilehost.com/?w=files&flid=316429)
-
-
-- 📫 **How to reach me:** 💌 [![Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
-
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theRay1s)
 [![Telegram](https://img.shields.io/badge/Rehan%20Singh-Telegram-blue)](https://telegram.dog/theRay1)
+- 📫 **How to reach me:** 💌 [![Mail](https://img.shields.io/badge/Mail-rehandagur%40outlook.com-blue)](rehandagur@outlook.com)
