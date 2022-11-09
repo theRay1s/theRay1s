@@ -2,8 +2,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theRay1s&theme=onedark&column=6" alt="theRay1s" /></a> </p>
 
 # Statistics #
-
-<p>![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theRay1s&theme=dark&show_icons=true)</p>
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theRay1s&theme=dark&show_icons=true)
 
 ---
 
