@@ -3,7 +3,7 @@
 
 # Statistics #
 
-<p align="center"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=theRay1s&include_all_commits=true&theme=onedark&count_private=true" alt="theRay1s"> &nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theRay1s&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="theRay1s" /></p>
+<p>![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theRay1s&theme=dark&show_icons=true)</p>
 
 ---
 
